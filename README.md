@@ -7,10 +7,14 @@
 
 字体使用声明：
 本作品中使用的部分字体是由CyanoHao设计的Resource-Han-Rounded，使用的字体遵循Open Font License 1.1（OFL 1.1）许可证。详细许可证条款请参见随附的许可证文件。
+
 [仓库地址](https://github.com/CyanoHao/Resource-Han-Rounded)
 
+
 部分字体使用 MiSans 字体。
+
 [地址](https://hyperos.mi.com/font/)
+
 
 ## 注意
 
@@ -27,4 +31,7 @@
 ### 趣事
 
 项目更新前的半小时作者还在跟人吵架
+
 有笨蛋猜了4次都没猜对格式怎么写
+
+有铸币又忘记换行了
