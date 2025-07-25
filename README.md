@@ -1,4 +1,4 @@
-# UI-of-the-live-broadcast-room
+# UI
 
 这是一套由CC wiki project(V4) UI界面修改而来的适用于vup与普通用户直播需要的直播间UI。
 
